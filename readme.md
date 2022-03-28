@@ -1,5 +1,5 @@
 Je suis Colbert
-Futur développer web
+Futur programmeur web
 je veux créer des sites web sensationnels
 lorem ipsum bla bla...
 
