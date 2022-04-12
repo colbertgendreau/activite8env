@@ -1,14 +1,6 @@
 document.querySelector('#button').addEventListener('click', () => {
-    console.log('Message // versionner ici');
+    console.log('Message');
+    console.warn('Attention! ');
+    console.error(`ERREUR `);
   });
 
-
-  document.querySelector('#button').addEventListener('click', () => {
-    console.warn('Attention! //Versionner encore');
-});
-
-
-
-  document.querySelector('#button').addEventListener('click', () => {
-    console.error(`ERREUR //Versionner une autre fois.`);
-  });   
